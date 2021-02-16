@@ -11,6 +11,6 @@ I do have a seperate blog page as well. Where I blog about mathematical concepts
 
 
 
-[Blog Page](https://www.mohanataraj.github.io/blog)
+[Blog Page](https://mohanataraj.github.io/blog)
 
-[Main Page](https://www.mohanataraj.github.io/)
+[Main Page](https://mohanataraj.github.io/)
